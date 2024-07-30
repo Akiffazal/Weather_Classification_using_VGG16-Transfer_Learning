@@ -1,4 +1,3 @@
-# Weather_Classification_using_VGG16-Transfer_Learning
 # README for Weather Classification using VGG16 Transfer Learning
 
 ## Overview
